@@ -2,7 +2,6 @@
 #include "AssetManager.h"
 #include "GraphicsRender.h"
 #include <ctime>
-#include <thread>
 
 class GameState {
 private:
