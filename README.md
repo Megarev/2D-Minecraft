@@ -1,2 +1,2 @@
 # 2D-Minecraft
-A Game made using SFML
+A Game made using C++/SFML
